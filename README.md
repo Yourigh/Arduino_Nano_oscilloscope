@@ -13,5 +13,12 @@ Adding a new variable caused instability and design didn't work well anymore. Me
 #Application specific adjustments
 You need to change declaration for your display and its connection. See ug8 documentation.
 
+#Compatibility
+This code should work on AtMega 328 based boards Uno and Nano. There will be no problem to run this on Arduino MEGA. Leave a comment from your testing.
+
 #Video
 comming soon...
+
+#Credits
+original code (not for Arduino Nano)
+http://www.semifluid.com/2013/05/28/arduino-fio-lcd-oscilloscope/
