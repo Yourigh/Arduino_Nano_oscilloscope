@@ -18,9 +18,11 @@ This code should work on AtMega 328 based boards Uno and Nano. There will be no 
 
 #Picture
 Small display with SSD1306 driver
+
 ![spi_small_ssd1306](https://cloud.githubusercontent.com/assets/25552139/23827670/b18234fe-06b8-11e7-8dcd-c0dd9754c7ca.jpg)
 
 DOGM driver
+
 ![spi_dogm126](https://cloud.githubusercontent.com/assets/25552139/23827671/b4a26adc-06b8-11e7-9e8f-fb740d50a594.jpg)
 
 #Credits
