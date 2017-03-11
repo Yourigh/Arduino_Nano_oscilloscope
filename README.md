@@ -17,7 +17,11 @@ You need to change declaration for your display and its connection. See ug8 docu
 This code should work on AtMega 328 based boards Uno and Nano. There will be no problem to run this on Arduino MEGA. Leave a comment from your testing.
 
 #Picture
-![17273302_10207514492372681_1454233875_o](https://cloud.githubusercontent.com/assets/25552139/23827575/e4d40492-06b6-11e7-8818-4c93d2129713.jpg)
+Small display with SSD1306 driver
+![spi_small_ssd1306](https://cloud.githubusercontent.com/assets/25552139/23827670/b18234fe-06b8-11e7-8dcd-c0dd9754c7ca.jpg)
+
+DOGM driver
+![spi_dogm126](https://cloud.githubusercontent.com/assets/25552139/23827671/b4a26adc-06b8-11e7-9e8f-fb740d50a594.jpg)
 
 #Credits
 original code (not for Arduino Nano)
